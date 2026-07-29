@@ -41,3 +41,38 @@ SWAGLABS-testingWeb/
 ├── Data Files/ # Excel data source for data-driven testing
 ├── Reports/ # Execution reports (HTML/logs) from test runs
 └── Include/ # Config and shared resources
+
+## How to Run
+
+**Via Katalon Studio GUI:**
+1. Open the project in Katalon Studio
+2. Navigate to `Test Suites`
+3. Right-click a suite (e.g. `TSC_FullRegression`) → `Run`
+
+**Via Command Line:**
+```bash
+katalonc -noSplash -runMode=console -projectPath="<project-path>" -retry=0 -testSuitePath="Test Suites/TSC_FullRegression" -browserType="Chrome"
+```
+
+## Key Techniques & Design Decisions
+
+- **Reusable test case design** — a shared login flow (`TC_Common_ValidLogin`) is called across 20+ dependent test cases via `Call Test Case`, eliminating duplicate setup code and centralizing maintenance.
+- **Data-driven testing** — checkout form validation (valid input, empty fields, non-standard formats) is handled by a single parameterized test case bound to an Excel data file, instead of 5 near-duplicate test cases.
+- **Redundancy elimination** — test cases with overlapping assertions (e.g. page-navigation checks already covered by a more detailed content-verification test) were identified and removed to keep the suite lean.
+- **Requirement-based assertions** — expected results are based on verified application behavior, not assumptions. For example, product sort order is confirmed to reset to default after a page refresh; this is documented as observed behavior, not treated as a bug.
+- **Beyond-UI verification** — the PDF receipt download feature is tested by verifying file existence and integrity (non-zero byte size) for a dynamically-timestamped filename, since exact filenames can't be hardcoded.
+
+## Notable Debugging Findings
+
+- Diagnosed and disabled Katalon's **AI Self-Healing** feature after discovering it was silently substituting failed locators with unrelated elements — causing tests to report `PASSED` despite the intended action never occurring. This restored accurate pass/fail reporting across the suite.
+- Resolved multiple `WebElementNotFoundException` and `InvalidSelectorException` issues caused by empty or overly-specific XPath locators, replacing them with stable, reusable selectors based on shared HTML classes.
+- Fixed test case chaining issues (`BrowserNotOpenedException`) caused by improperly closing the browser inside reusable test cases meant to be called by other test cases.
+
+## Author
+
+**Bilqis Nur Fadhila Iswoyo**
+Software Engineering Student — Quality Assurance Focus
+
+- GitHub: [github.com/bilqisnur](https://github.com/bilqisnur)
+- LinkedIn: [linkedin.com/in/bilqis-nur-fadhila](http://www.linkedin.com/in/bilqis-nur-fadhila)
+- Portfolio: [canva.link/bilqis-porto](https://canva.link/bilqis-porto)
