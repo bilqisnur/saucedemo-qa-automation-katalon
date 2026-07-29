@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that product image, name, description, price, and Add to Cart button are displayed on the detail page.</description>
+   <name>TC_Product Detail_02_Verify user can see image, name, description, price, and add to cart button</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>77057ddf-42d4-47ab-8ff9-3f2820bbe640</testCaseGuid>
+</TestCaseEntity>

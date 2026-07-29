@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that an error message is displayed when user attempts to log in with an empty username field.</description>
+   <name>TC_Login_02_Verify login with empty username</name>
+   <tag>regression,negative test</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ddb6f6ce-832b-4ca5-a203-42fcbe62fe28</testCaseGuid>
+</TestCaseEntity>

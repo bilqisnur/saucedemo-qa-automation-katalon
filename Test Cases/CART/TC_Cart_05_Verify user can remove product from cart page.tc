@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can remove a product from the cart page.</description>
+   <name>TC_Cart_05_Verify user can remove product from cart page</name>
+   <tag>regression,cart</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>47c834c0-ef75-4cab-bf46-cdd11e3cc0c5</testCaseGuid>
+</TestCaseEntity>

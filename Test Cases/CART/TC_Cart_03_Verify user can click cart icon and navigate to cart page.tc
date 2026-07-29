@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that clicking the cart icon navigates the user to the cart page.</description>
+   <name>TC_Cart_03_Verify user can click cart icon and navigate to cart page</name>
+   <tag>smoke test,regression,cart</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>781629ef-dc92-430d-be1d-74bb7f2b8d11</testCaseGuid>
+</TestCaseEntity>

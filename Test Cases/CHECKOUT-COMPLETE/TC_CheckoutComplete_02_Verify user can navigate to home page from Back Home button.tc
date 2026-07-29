@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that clicking &quot;Back Home&quot; navigates the user back to the products catalog page.</description>
+   <name>TC_CheckoutComplete_02_Verify user can navigate to home page from Back Home button</name>
+   <tag>regression test</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74ed99ad-bca5-42ee-9a54-7d63867f3b93</testCaseGuid>
+</TestCaseEntity>

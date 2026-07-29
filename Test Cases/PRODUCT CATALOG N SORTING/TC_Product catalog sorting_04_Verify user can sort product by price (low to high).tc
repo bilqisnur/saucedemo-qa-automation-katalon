@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can sort products by Name in descending order (Z-A).</description>
+   <name>TC_Product catalog sorting_04_Verify user can sort product by price (low to high)</name>
+   <tag>regression,catalog</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d37564a-bff4-4f64-93a7-063dca2eafd5</testCaseGuid>
+</TestCaseEntity>

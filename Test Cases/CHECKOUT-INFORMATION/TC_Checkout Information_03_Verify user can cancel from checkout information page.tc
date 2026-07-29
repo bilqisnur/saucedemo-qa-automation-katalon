@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can cancel the checkout process from the checkout information page.</description>
+   <name>TC_Checkout Information_03_Verify user can cancel from checkout information page</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1e3e0cfa-1d41-44be-b9c6-7b3c8429e417</testCaseGuid>
+</TestCaseEntity>

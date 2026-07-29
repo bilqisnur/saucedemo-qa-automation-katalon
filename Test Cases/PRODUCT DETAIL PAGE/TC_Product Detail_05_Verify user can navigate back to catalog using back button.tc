@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can navigate back to the catalog page using the Back button.</description>
+   <name>TC_Product Detail_05_Verify user can navigate back to catalog using back button</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ca66fe7e-25fc-4e5b-80a2-8f05948d84fa</testCaseGuid>
+</TestCaseEntity>

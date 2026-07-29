@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Product catalog sorting_01_Verify user can view product list in catalog</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b7c021e-93b2-4da9-b8fa-ba5b594602f3</testCaseGuid>
+</TestCaseEntity>

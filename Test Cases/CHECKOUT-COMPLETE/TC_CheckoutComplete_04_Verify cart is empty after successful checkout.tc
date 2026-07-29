@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the cart is empty after a successful checkout.</description>
+   <name>TC_CheckoutComplete_04_Verify cart is empty after successful checkout</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb5d1ed3-8f28-4f13-abd0-4bd4e1803a4c</testCaseGuid>
+</TestCaseEntity>

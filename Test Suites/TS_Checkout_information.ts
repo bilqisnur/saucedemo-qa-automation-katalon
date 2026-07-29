@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Checkout_information</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>7ff400a9-a893-4089-9cc2-a59f652fe068</testSuiteGuid>
+   <testCaseLink>
+      <guid>2b583053-779f-4621-84b7-1b01e851158a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CHECKOUT-INFORMATION/TC_Checkout Information_01_Verify clicking checkout navigates to checkout information page</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e9497782-d08d-4ef8-8bf5-b62fd799320f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CHECKOUT-INFORMATION/TC_Checkout Information_02_VerifyFormValidationWithMultipleData</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>784a8be8-28eb-4428-a1e5-21a7e3c41505</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>26f26c99-2d2c-46b2-b5e0-4ffca7bd6886</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>db3d3d09-410b-4a14-b240-85bb8e793e2f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7794af00-deb3-4901-9738-216db80bd656</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CHECKOUT-INFORMATION/TC_Checkout Information_03_Verify user can cancel from checkout information page</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

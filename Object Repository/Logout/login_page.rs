@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>login_page</name>
+   <tag></tag>
+   <elementGuidId>be5d1ed6-2244-49e4-9235-ea9dcbb7fd90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'login_button_container']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#login_button_container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#login_button_container</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>92229b88-4e9a-49bf-bc54-476caf658a14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>login_button_container</value>
+      <webElementGuid>33a6277f-aa5c-45a1-a259-f3e0559cb033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form_column</value>
+      <webElementGuid>757f1f73-b595-4fe5-b167-0fe85c8641e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a1976c4e8975ae65ae953c97d26db75f</value>
+      <webElementGuid>b4c359fc-b484-4239-aaf1-8cabfc154884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'login_button_container']</value>
+      <webElementGuid>fe522393-0682-4718-8c3f-4402323dd5b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'login_button_container']</value>
+      <webElementGuid>1b12eb50-efc3-439a-b1f5-b5da1dc06d6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'login_button_container']</value>
+      <webElementGuid>53e41030-b090-4b8e-8f69-0d52d97dde79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

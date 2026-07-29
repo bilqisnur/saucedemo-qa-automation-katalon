@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that a success message is displayed after the user completes the checkout process.</description>
+   <name>TC_CheckoutComplete_01_Verify success message displayed after completing checkout</name>
+   <tag>smoke test,regression test</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df555631-f96f-4605-b01e-58d82f0b9802</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can sort products by Name in ascending order (A-Z).</description>
+   <name>TC_Product catalog sorting_02_Verify user can sort product by Name (A-Z)</name>
+   <tag>regression,catalog</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>940ee721-50a7-4c46-993c-248a51ed4ab7</testCaseGuid>
+</TestCaseEntity>

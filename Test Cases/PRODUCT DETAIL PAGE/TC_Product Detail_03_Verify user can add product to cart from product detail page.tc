@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can add a product to the cart from the product detail page.</description>
+   <name>TC_Product Detail_03_Verify user can add product to cart from product detail page</name>
+   <tag>smoke test,regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b656bea7-1be4-4305-8934-a8c1d62584e8</testCaseGuid>
+</TestCaseEntity>

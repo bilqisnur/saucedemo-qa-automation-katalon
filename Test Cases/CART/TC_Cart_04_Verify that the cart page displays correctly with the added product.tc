@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the cart page displays correctly with the added product(s).</description>
+   <name>TC_Cart_04_Verify that the cart page displays correctly with the added product</name>
+   <tag>smoke test,regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49793326-644a-4e7e-bcb6-18206e22c1d5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that item details, price, tax, and total on the checkout overview page are displayed correctly.</description>
+   <name>TC_Overview_02_Verify checkout overview information displayed correctly</name>
+   <tag>smoke test,regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd770568-7da4-441e-a035-b54b22892172</testCaseGuid>
+</TestCaseEntity>

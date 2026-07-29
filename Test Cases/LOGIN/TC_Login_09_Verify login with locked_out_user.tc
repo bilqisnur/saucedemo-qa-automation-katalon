@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that login is rejected with an appropriate error message when using the locked_out_user account.</description>
+   <name>TC_Login_09_Verify login with locked_out_user</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6eac3b6-94c7-4148-9ef1-d45909efb4b1</testCaseGuid>
+</TestCaseEntity>

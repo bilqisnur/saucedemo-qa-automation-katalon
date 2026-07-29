@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that clicking the Checkout button navigates the user to the checkout information page.</description>
+   <name>TC_Checkout Information_01_Verify clicking checkout navigates to checkout information page</name>
+   <tag>smoke test,regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>453ed4b0-89f7-42b3-ad8a-237d812a0213</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that clicking a product from the catalog navigates the user to the product detail page.</description>
+   <name>TC_Product Detail_01_Verify clicking product in catalog navigates to product detail page</name>
+   <tag>smoke test,regression,positive test</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c37a548-41c0-44b0-b81b-86601a12e619</testCaseGuid>
+</TestCaseEntity>

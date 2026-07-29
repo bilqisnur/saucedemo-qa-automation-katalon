@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify cart retains selected products after navigation</description>
+   <name>TC_Cart_11_Verify cart retains selected products after navigation</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0da69a68-5c7d-4273-b1ff-f04fab069ee4</testCaseGuid>
+</TestCaseEntity>

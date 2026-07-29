@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>checkout with datadriven testing</description>
+   <name>TC_Checkout Information_02_VerifyFormValidationWithMultipleData</name>
+   <tag>smoke test,regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8c35062d-5923-42bd-a0ac-9a2a929cfb22</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>9596e42b-df6c-43ec-82f2-bb1981375e72</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Checkout_Information</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>9596e42b-df6c-43ec-82f2-bb1981375e72</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>firstName</value>
+      <variableId>784a8be8-28eb-4428-a1e5-21a7e3c41505</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>9596e42b-df6c-43ec-82f2-bb1981375e72</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>lastName</value>
+      <variableId>26f26c99-2d2c-46b2-b5e0-4ffca7bd6886</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>9596e42b-df6c-43ec-82f2-bb1981375e72</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>postalCode</value>
+      <variableId>db3d3d09-410b-4a14-b240-85bb8e793e2f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Checkout_Information')</defaultValue>
+      <description></description>
+      <id>784a8be8-28eb-4428-a1e5-21a7e3c41505</id>
+      <masked>true</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Checkout_Information')</defaultValue>
+      <description></description>
+      <id>26f26c99-2d2c-46b2-b5e0-4ffca7bd6886</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Checkout_Information')</defaultValue>
+      <description></description>
+      <id>db3d3d09-410b-4a14-b240-85bb8e793e2f</id>
+      <masked>false</masked>
+      <name>postalCode</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that clicking &quot;Continue Shopping&quot; navigates the user back to the catalog page.</description>
+   <name>TC_Cart_06_Verify clicking Continue Shopping button navigates back to catalog pag3</name>
+   <tag>regression,cart</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de77d321-0203-4627-aa48-0d6ac26b6957</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can add a product to the cart directly from the catalog page.</description>
+   <name>TC_Cart_01_Verify user can add product to cart from catalog page</name>
+   <tag>smoke test,regression,cart</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a19ebefa-c6ba-415a-bc33-2c52a8f6c3bc</testCaseGuid>
+</TestCaseEntity>

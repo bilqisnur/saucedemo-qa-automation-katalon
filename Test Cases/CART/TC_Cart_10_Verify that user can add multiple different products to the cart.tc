@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can add multiple different products to the cart.</description>
+   <name>TC_Cart_10_Verify that user can add multiple different products to the cart</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0dc7942e-01ee-45e9-ad98-7a10a55e480b</testCaseGuid>
+</TestCaseEntity>

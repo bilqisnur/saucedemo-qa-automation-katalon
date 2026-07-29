@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user can download order receipt through download pdf button</description>
+   <name>TC_CheckoutComplete_03_verify user can download order receipt as pdf</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67cbd3bb-67fa-4212-b3c1-dfe67d91bb8c</testCaseGuid>
+</TestCaseEntity>

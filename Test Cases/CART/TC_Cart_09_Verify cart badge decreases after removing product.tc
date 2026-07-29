@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can remove a product from the cart from the product detail page.</description>
+   <name>TC_Cart_09_Verify cart badge decreases after removing product</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d69badc8-9fa8-40ab-8659-6cbf8aad7252</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can successfully log out and is redirected back to the login page.</description>
+   <name>TC_Logout_01_Verify user can logout and is navigated to login page</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58684206-8877-4f89-94e7-eed74a73806e</testCaseGuid>
+</TestCaseEntity>

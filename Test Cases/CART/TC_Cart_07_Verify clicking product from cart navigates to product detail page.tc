@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that clicking a product from the cart page navigates the user to the product detail page.</description>
+   <name>TC_Cart_07_Verify clicking product from cart navigates to product detail page</name>
+   <tag>regression,cart</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>01e6d323-dc6a-4781-81ea-a954ab50beec</testCaseGuid>
+</TestCaseEntity>

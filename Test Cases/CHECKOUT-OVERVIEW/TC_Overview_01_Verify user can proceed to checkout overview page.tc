@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the order summary is displayed after clicking Continue on the information page.</description>
+   <name>TC_Overview_01_Verify user can proceed to checkout overview page</name>
+   <tag>smoke test,regression,checkout</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c4326a1-b390-4da1-a3c6-bd130cf32542</testCaseGuid>
+   <variable>
+      <defaultValue>'bilkis\r\n'</defaultValue>
+      <description></description>
+      <id>c4231b36-e9db-40da-a36c-8c0951986100</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'nur'</defaultValue>
+      <description></description>
+      <id>944d9372-a643-43fe-8dcf-11c29ca67950</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>1123</defaultValue>
+      <description></description>
+      <id>095d8ba1-338d-48b3-a229-eda6186766e3</id>
+      <masked>false</masked>
+      <name>postalCode</name>
+   </variable>
+</TestCaseEntity>

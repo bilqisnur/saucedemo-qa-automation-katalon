@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the cart badge count increases when a product is added.</description>
+   <name>TC_Cart_08_Verify cart badge updates after adding product</name>
+   <tag>smoke test,regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6fdae9e-9a72-4434-b109-256be6215a16</testCaseGuid>
+</TestCaseEntity>

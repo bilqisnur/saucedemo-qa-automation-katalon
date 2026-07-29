@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify system behavior when username contains leading or trailing spaces.</description>
+   <name>TC_Login_10_Verify login with username containing leading or trailing spaces</name>
+   <tag>regression,negative test</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>840159c5-bd7f-4c9a-9c4f-c3a3492a0aef</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the correct and visible error message is displayed for any invalid login attempt.</description>
+   <name>TC_login_08_Verify error message displayed for invalid login</name>
+   <tag>regression,negative test</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a489cf1-2566-4d19-91a6-1f8e380c7938</testCaseGuid>
+</TestCaseEntity>
